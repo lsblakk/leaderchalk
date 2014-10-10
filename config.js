@@ -1,5 +1,5 @@
 var config = {
-	country: "in",
+	country: "",
     limit: 500
 };
 

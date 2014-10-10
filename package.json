@@ -1,13 +1,14 @@
 {
   "name": "leaderchalk",
   "version": "0.0.0",
-  "description": "Mozilla India Leaderboard Backend",
+  "description": "Ascend Project Leaderboard Backend",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MozillaIndia/leaderchalk"
+    "url": "https://github.com/lsblakk/leaderchalk"
   },
   "dependencies": {
     "bz": "~1.0.0-alpha.5",
-    "execSync": "~1.0.1-pre"
+    "execSync": "~1.0.1-pre",
+    "request": "~2.45.0"
   }
 }
