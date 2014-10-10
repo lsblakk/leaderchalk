@@ -1,5 +1,6 @@
 stats.json
 install.sh
 node_modules
-*keys*
+lib/keys.js
+index.js
 *~

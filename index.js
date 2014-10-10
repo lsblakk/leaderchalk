@@ -4,8 +4,8 @@ var fs = require('fs'),
     execSync = require('execSync'),
     mozilliansAPI = require('./lib/mozillians.js');
 
-var GITHUB_USERNAME = '',
-    GITHUB_PASSWORD = '';
+var GITHUB_USERNAME = 'lsblakk',
+    GITHUB_PASSWORD = 'punk7856';
 
 var emails = [],
     userData = [],
